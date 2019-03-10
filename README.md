@@ -8,5 +8,6 @@ if score is between 3 and 7 - Good
 if score is below 3 - poor
 
 # How to Run
-simple clone the program [here]
+simple clone the program [here](https://github.com/satheesh22g/MCQs-using-Python.git)
 
+run the program ```MCQs.py```
