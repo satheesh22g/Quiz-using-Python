@@ -9,6 +9,6 @@ This Project Is a Multiple choice questions program using Python.
 * if score is below 3 - poor
 
 # How to Run
-simple clone the program [here](https://github.com/satheesh22g/MCQs-using-Python.git)
+clone the program [here](https://github.com/satheesh22g/MCQs-using-Python.git)
 
 run the program ```MCQs.py```
